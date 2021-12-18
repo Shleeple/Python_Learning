@@ -1,0 +1,7 @@
+,name,phone,email,skills
+0,JAMES RYAN,['(123) 456-7890'],jamesryan@email.com,"{'sql', 'java', 'css'}"
+1,Core,[],info@qwikresume.com,"{'sql', 'python', 'java', 'css'}"
+2,Richard Green,"['244 111 3300', '777 566 2211']",richard.g@emaladdress.co.uk,"{'sql', 'css'}"
+3,"Principles 
+- City & Guilds","['476 888 5544', '887 222 9999']",gary.w@dayjob.co.uk,"{'sql', 'java', 'css'}"
+4,Responsive Web Design,[],will@codersblock.com,"{'sql', 'java', 'css'}"

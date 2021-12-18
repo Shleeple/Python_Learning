@@ -1,0 +1,135 @@
+Bloomington, IN
+
+troubleshooting
+
+JAMES RYAN
+
+Full-Stack Developer
+
+jamesryan@email.com
+
+(123) 456-7890
+
+Indianapolis, IN
+
+LinkedIn
+
+Github
+
+EDUCATION
+
+B.S.
+
+2020
+
+Computer Science
+
+University of Indiana
+
+September 2016 - June
+
+RELEVANT COURSES
+
+Data Structures
+
+Algorithm Design
+
+Database Management
+Systems
+
+Computer Vision
+
+Software Design Methodology
+
+SKILLS
+
+JavaScript
+
+HTML
+
+CSS
+
+React.js
+
+jQuery
+
+Angular.js
+
+Node.js
+
+MongoDB
+
+SQL
+
+AJAX/JSON
+
+CAREER OBJECTIVE
+
+Recent computer science graduate with a passion for
+developing scalable web applications and working across the
+full stack. I am looking to join forces with Red Technologies to
+continue to grow my skill set while contributing to the positive
+outcome of making people "richer, smarter, and happier."
+
+WORK EXPERIENCE
+
+Full-Stack Developer
+Periodic
+
+January 2021 - current
+· Built 30+ custom interfaces using the Periodic API
+· Implemented 14 new features as deﬁned and scoped by a
+
+Bloomington, IN
+
+product team of 12
+
+· Collaborated with 2 different development teams on 4 new
+
+project designs and feature improvements
+
+· Diagnosed and ﬁxed report functionality issues by
+
+· Suggested 20+ improvements to product design and
+
+functionality as informed by user-experience reporting
+· Collaborated with 4 client service teams to understand and
+
+solve bottlenecks and proposed feature expansions
+
+Full-Stack Developer Intern
+TuSimple
+
+June 2020 - January 2021
+· Built pipeline scheduling and execution platform and
+
+West Lafayette, IN
+
+corresponding front-end to manage and interact with the
+platform
+
+· Developed 10+ cluster projects and utilized public cloud,
+
+computing infrastructure services
+
+· Designed 20+ front-end Web Interface for engineers and
+
+testops to control and monitor the onboard system
+· Analyzed and optimized performance bottlenecks in 8+
+existing back-end systems, such as database queries and
+storage solutions, to increase responsiveness
+
+· Architected, implemented, and maintained 5 performant
+
+and scalable data-processing back-end systems
+
+· Worked with 8+ teams to build web-based tools to facilitate
+
+their development lifecycle
+
+· Collaborated with 3 SRE teams of 6 to identify issues and
+
+increase the stability, performance, and efﬁciency of private
+computing services
+
+

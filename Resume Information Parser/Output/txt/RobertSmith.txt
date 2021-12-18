@@ -1,0 +1,80 @@
+Full Stack Developer
+
+ROBERT SMITH
+
+Phone: (123) 456 78 99 
+Email: info@qwikresume.com
+Website: www.qwikresume.com
+LinkedIn:
+linkedin.com/qwikresume
+Address: 1737 Marshville Road,
+Alabama.
+
+Determined, quick learner with strong interpersonal skills and proven ability to manage positive 
+and productive client relationship, problem solver. 
+
+Objective
+
+Skills
+
+C++, Javascript, SQL, Python, HTML, CSS, JQuery, Mongodb, MVC, .NET.
+
+Work Experience
+
+Full Stack Developer
+Baltimore City Government, DPWIT ­ September 2013 – 2019 
+
+Service.
+
+one click.
+
+time.
+
+distinct content.
+
+ Designed, developed and kept adding new function and UI to a huge multifunctional city Web 
+
+ Designed and developed a report service that improve report generate time from one week to
+
+ Developed internal details sharing central platform with extended phone app with fast search.
+ Built route models to visualize locations and map simulator that generate a precise travelling 
+
+ Designed and developed attendance service and project tracking system.
+ Designed and developed a mailing system that could track and generate bulk emails with 
+
+ Set up group hierarchy, which allow different divisions to have their own distinct workspace 
+
+and CRUD permissions, to access all the above applications or services for baltimore citizens 
+and city employees.
+
+Full Stack Developer
+ABC Corporation ­ 2011 – 2013 
+
+(Frontend + .NET).
+
+ Full Stack Developer Description Create Full Stack web applications using the Microsoft Stack 
+
+ Environment HTML5, JavaScript, Bootstrap, JQuery, AngularJS, JSON, C#, ASP.NET, .NET Core, 
+
+Agile Methodology, Sass, SQL,MongoDB.
+
+ Responsibilities Develop projects from scratch, starting with the idea and delivering a final 
+
+product.
+
+ Worked in Agile and Scrum development environment.
+ Use of the Microsoft MVC to create full stack responsive applications.
+ Use of Angular to add functionality to the website and ASP.Net to create the Backend.
+
+
+.Also created a full stack project using Node.js as the backend..
+
+Education
+
+B.S. in Computer Engineering and Electrical Engineering - 2009(University of Miami - Coral 
+Gables, FL)
+
+© This Free Resume Template is the copyright of Qwikresume.com. Usage
+Guidelines
+
+

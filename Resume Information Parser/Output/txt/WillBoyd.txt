@@ -1,0 +1,223 @@
+WILL BOYD 
+
+ 
+Portfolio 
+
+ 
+Email 
+
+codersblock.com 
+
+will@codersblock.com 
+ 
+
+ 
+
+ 
+
+INTRODUCTION 
+ 
+Software engineer specializing in front-end web development 
+ 
+SKILLS 
+ 
+Concepts 
+
+Agile Methodology, Responsive Web Design, Browser Performance, 
+Mobile Web, Accessibility, Ajax, Unit Testing, MV*, Android App 
+Development, Preprocessors 
+
+JavaScript (native, Ember, Backbone, Node, jQuery), HTML, CSS, SVG, 
+Sass, Less, Grunt, Gulp, ASP.NET (Web Forms, MVC), C#, Visual Basic, 
+Java, PHP, SQL, Regex 
+
+Source Control (Git, TFS, SVN), Photoshop, Illustrator, Visual Studio, 
+Eclipse, Heroku, WordPress, Google Analytics 
+
+ 
+Languages/Frameworks 
+
+ 
+Software 
+
+ 
+WORK EXPERIENCE 
+ 
+Salesforce – Atlanta, GA 
+
+UX Engineer 
+  Created prototype applications for user research  
+  Simplified and improved front-end architecture and build processes 
+
+(2016 – Present) 
+
+ 
+Salesforce – Atlanta, GA 
+Software Engineer 
+  Launched Engagement Studio, a visual web application for 
+
+(2015 – 2016) 
+
+  Created an intuitive graphical interface that combined zooming, 
+
+automated marketing 
+
+panning, and animation 
+
+ 
+POP – Seattle, WA 
+
+Senior Interactive Developer 
+  Led front-end development of the Big History Project website 
+  Led development of Costco Travel’s mobile website 
+  Worked on projects for several clients, including Nike, Target, and 
+
+(2014 – 2015) 
+
+Ironman Triathlon 
+
+ 
+
+Page 1 of 3 
+
+WILL BOYD 
+
+ 
+Portfolio 
+
+ 
+Email 
+
+codersblock.com 
+
+will@codersblock.com 
+ 
+
+monitoring code complexity 
+
+  Facilitated sprints as scrum master 
+
+Amazon – Seattle, WA 
+
+Software Development Engineer 
+  Worked on Amazon Cloud Drive web applications 
+  Improved codebase health by increasing unit test coverage and 
+
+(2013 – 2014) 
+
+ 
+CareerBuilder – Norcross, GA 
+Senior Software Engineer 
+  Created CareerBuilder’s Android app for job seekers 
+  Continued development of CareerBuilder’s mobile website and 
+
+(2011 – 2013) 
+
+responsive web pages 
+
+ 
+Turner Broadcasting – Atlanta, GA 
+Advanced Software Developer 
+  Maintained critical CNN services for transmitting breaking news 
+
+(2010 – 2011) 
+
+reports and multimedia meta data 
+
+  Worked on NewsDesk, CNN’s internal web application for resource 
+
+management and scheduling 
+
+ 
+CareerBuilder – Norcross, GA 
+Senior Software Engineer 
+Team Leader, BrightFuse Development 
+Software Engineer III 
+Software Engineer II 
+Junior Web Developer 
+
+ 
+Objectware – Norcross, GA 
+
+Web Developer 
+
+ 
+SIDE PROJECTS 
+ 
+Coder’s Block Writing – codersblock.com/blog 
+
+Web development articles, recognized by Smashing Magazine, CSS-
+Tricks, Codrops, and others 
+
+ 
+Diff Cam Project – diffcam.com 
+
+An exploration of motion detection using JavaScript and a webcam 
+
+ 
+
+(2010 – 2010) 
+(2009 – 2010) 
+(2008 – 2009) 
+(2005 – 2008) 
+(2003 – 2005) 
+
+(2003 – 2003) 
+
+Page 2 of 3 
+
+ 
+
+ 
+
+WILL BOYD 
+
+ 
+Portfolio 
+
+ 
+Email 
+
+codersblock.com 
+
+will@codersblock.com 
+ 
+
+SuperFeed – github.com/lonekorean/super-feed 
+
+Modular, multi-threaded social media aggregator written in .NET 
+
+Online tool for building and testing .NET regular expressions 
+
+ 
+Regex Storm – regexstorm.net 
+
+ 
+PUBLIC SPEAKING 
+ 
+Silky Smooth Animation with CSS 
+
+– CSSConf US 2016 
+
+ 
+Building Motion Detecting Web Apps with JavaScript 
+
+– RevolutionConf 2016 
+
+ 
+EDUCATION 
+ 
+Georgia Institute of Technology – Atlanta, GA 
+
+Bachelor’s Degree in Computer Science 
+  Specialization in databases 
+
+(1998 – 2003) 
+
+Page 3 of 3 
+
+ 
+
+ 
+
+
